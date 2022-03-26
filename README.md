@@ -1,0 +1,2 @@
+# TheWarrior
+💣 TheWarrior - Javascript Game 💣
